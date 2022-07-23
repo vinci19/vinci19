@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinci19
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Html,CSS,Javascipr,React,NodeJs
+- 🌱 I’m currently learning Html,CSS,Javascript,React,NodeJs
 - 💞️ I’m looking to collaborate on websites
 - 📫 How to reach me email me at marton.vince.farkas@gmail.com
 
